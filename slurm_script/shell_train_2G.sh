@@ -1,7 +1,7 @@
 #!/bin/bash
 
 module load conda
-conda activate /blue/weishao/share/hxj/conda/envs/3d
+conda sparse-3d-diffusion
 
 echo "Using TMPDIR=$TMPDIR"
 

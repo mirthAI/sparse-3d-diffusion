@@ -3,7 +3,7 @@ set -euo pipefail
 
 module load cuda/12.8.1
 module load conda
-conda activate /blue/weishao/share/hxj/conda/envs/3d
+conda activate sparse-3d-diffusion
 export OMP_NUM_THREADS=8
 export PYTHONUNBUFFERED=1
 
