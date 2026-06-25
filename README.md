@@ -1,8 +1,11 @@
 # Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement
 
-<font size=3><div align='center' > **Paper (Coming Soon)** | [**Datasets**](#datasets) | [**Model**](#model) | [**Training**](#training) | [**Inference**](#inference)</div></font>
+<font size=3><div align='center' > [**Paper**](https://arxiv.org/abs/2604.17773) | [**Datasets**](#datasets) | [**Model**](#model) | [**Training**](#training) | [**Inference**](#inference)</div></font>
 
 Official PyTorch implementation of the paper above.
+
+## News
+- 🎉 **[2026]** Our paper has been accepted by **MICCAI 2026**!
 
 
 ## Requirements Installation
@@ -26,10 +29,10 @@ In the paper, we train and evaluate our model on two 3D enhancement tasks: image
 
  Dataset  | Modality | Volumes | Download Link |
 | ------------- | ------------- | ------------- | ------------- |
-| LDCT-and-Projection-data Dataset | CT |	50 | Coming Soon |
-| FDG PET Dataset | PET |	88 | Coming Soon |
-| AortaSeg24 Dataset | CTA |	60 | Coming Soon |
-| UHB FCD Lesion Dataset | MRI | 120 | Coming Soon |
+| LDCT-and-Projection-data Dataset | CT |	50 | [Download](https://drive.google.com/drive/folders/17OGCnf__mke6U-Dp1Jv2SL7T5CRFoh9r?usp=drive_link) |
+| FDG PET Dataset | PET |	88 | [Download](https://drive.google.com/drive/folders/1aKQ2BWK-JrahmK3Kz0cB4RfzPH388U5f?usp=drive_link) |
+| AortaSeg24 Dataset | CTA |	60 | [Download](https://drive.google.com/drive/folders/1q5HQBPMf8uex_0cL5Jp504zL1krMurJB?usp=drive_link) |
+| UHB FCD Lesion Dataset | MRI | 120 | [Download](https://drive.google.com/drive/folders/1spkcCS-7007F1R1_WoAhTFyZ3FNuH7CM?usp=drive_link) |
 
 The datasets should be downloaded and placed in the `data` folder of the project. 
 
@@ -70,8 +73,8 @@ Kindly cite the following papers if you use our code.
 ```bibtex
 @article{jiang2026structure,
   title={Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement},
-  author={Jiang, Hongxu and others},
-  journal={Coming Soon},
+  author={Jiang, Hongxu and Li, Fei and Yu, Boxiao and Zhang, Ying and Smith, Kaleb and Gong, Kuang and Shao, Wei},
+  journal={arXiv preprint arXiv:2604.17773},
   year={2026}
 }
 ```
