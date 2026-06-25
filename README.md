@@ -1,8 +1,8 @@
 # Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement
 
-<font size=3><div align='center' > [**Paper**](https://arxiv.org/abs/2604.17773) | [**Datasets**](#datasets) | [**Model**](#model) | [**Training**](#training) | [**Inference**](#inference)</div></font>
-
 Official PyTorch implementation of the paper above.
+
+<font size=3><div align='center' > [**Paper**](https://arxiv.org/abs/2604.17773) | [**Datasets**](#datasets) | [**Model**](#model) | [**Training**](#training) | [**Inference**](#inference)</div></font>
 
 ## News
 - 🎉 **[2026]** Our paper has been accepted by **MICCAI 2026**!
