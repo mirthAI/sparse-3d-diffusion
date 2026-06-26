@@ -40,7 +40,6 @@ The datasets should be downloaded and placed in the `data` folder of the project
 | Model    | Download Link                                                                                                                                 |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Lung CT Denoising | Coming Soon |
-| Brain PET Denoising | Coming Soon |
 | Aorta CTA SR | Coming Soon |
 | Brain MRI SR | Coming Soon |
 
